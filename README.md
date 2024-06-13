@@ -1,12 +1,10 @@
 <!-- Profile View -->
-<a href="https://github.com/Melanocetuss?tab=repositories"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2300FFF3&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/></a>
 <img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> 
 
 <!-- Header -->
 ### Cesur Alphan Ellik 👋
 #### Jr Cyber ​​Security | IT | Hardware Technician
-
 <!-- Banner -->
 <img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR0bDM1amdmdmc1cGdlc3U3aHU3cGJoMXhzZzRjem9nczVnY3BvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp" />
 <!-- About Me Summary -->
