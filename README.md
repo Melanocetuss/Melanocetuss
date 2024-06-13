@@ -34,5 +34,5 @@ Hello, I am Cesur Alphan Ellik. I graduated from the Computer Programming depart
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=Melanocetuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melanocetuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
