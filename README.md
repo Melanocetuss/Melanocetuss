@@ -8,7 +8,7 @@
 <!-- Banner -->
 <img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR0bDM1amdmdmc1cGdlc3U3aHU3cGJoMXhzZzRjem9nczVnY3BvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp" />
 <!-- About Me Summary -->
-Hello, I am Cesur Alphan Ellik. I graduated from the Computer Programming department at İzmir Ekonomi Üniversitesi. I am looking to advance in the field of Cyber Security and currently, I am working with tools in Kali Linux, Stable Diffusion, and topics such as how to perform SQL injection and its types. I closely follow the latest developments in technology and always strive to use the most up-to-date software. Thanks to my adaptability to teamwork and determination, I contribute to every project in the best way possible. I am always open to learning new technologies and reflect my diligence in every task, continuously raising my success graph. I am eager to add value to the team I work with and achieve goals together.
+Hello, I am Cesur Alphan Ellik. I graduated from the Computer Programming department at İzmir Ekonomi University. I am looking to advance in the field of Cyber Security and currently, I am working with tools in Kali Linux, Stable Diffusion, and topics such as how to perform SQL injection and its types. I closely follow the latest developments in technology and always strive to use the most up-to-date software. Thanks to my adaptability to teamwork and determination, I contribute to every project in the best way possible. I am always open to learning new technologies and reflect my diligence in every task, continuously raising my success graph. I am eager to add value to the team I work with and achieve goals together.
 
 <!-- Skills -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Other:</b>
@@ -30,29 +30,3 @@ Hello, I am Cesur Alphan Ellik. I graduated from the Computer Programming depart
   </a>
 </div>
 <!-- Github Stat -->
-<!-- 
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
--->
