@@ -29,5 +29,6 @@ Hello, I am Cesur Alphan Ellik. I graduated from the Computer Programming depart
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
   </a>
 </div>
-<!-- Github Stat -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
