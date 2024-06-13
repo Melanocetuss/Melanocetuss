@@ -33,6 +33,5 @@ Skills: Java / Python / C# / SQL / Linux / HTML-CSS-Javascirpt
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
   </a>
 </div>
-
 <!-- Github Stat -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melanocetuss)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Melanocetuss&show_icons=true)
+
