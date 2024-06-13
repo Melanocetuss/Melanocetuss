@@ -10,8 +10,8 @@ Skills: Java / Python / C# / SQL / Linux / HTML-CSS-Javascirpt
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Melanocetuss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cesur-alphan-ellik-b0056a240/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cesuralphan.github.io/Portfolio/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melanocetuss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melanocetuss)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Melanocetuss&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Melanocetuss&show_icons=true)  
+  
  
 
