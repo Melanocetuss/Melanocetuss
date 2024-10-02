@@ -12,6 +12,7 @@
 - Takım çalışmasına uyum ve azmim sayesinde projelere en iyi şekilde katkı sağlıyorum.
 - Yeni teknolojileri öğrenmeye her zaman açığım.
 - Her göreve olan titizliğimle başarı grafiğimi sürekli yükseltiyorum.
+  
 Amacım, çalıştığım takıma değer katmak ve birlikte hedeflere ulaşmak. 
 
 
