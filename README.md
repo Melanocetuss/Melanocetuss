@@ -7,14 +7,11 @@
 <!-- Banner -->
 <img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR0bDM1amdmdmc1cGdlc3U3aHU3cGJoMXhzZzRjem9nczVnY3BvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp" />
 <!-- About Me Summary -->
-## Hakkımda
-
 - Teknolojideki en son gelişmeleri yakından takip ediyorum.
 - Her zaman en güncel yazılımları kullanmaya özen gösteriyorum.
 - Takım çalışmasına uyum ve azmim sayesinde projelere en iyi şekilde katkı sağlıyorum.
 - Yeni teknolojileri öğrenmeye her zaman açığım.
 - Her göreve olan titizliğimle başarı grafiğimi sürekli yükseltiyorum.
-
 Amacım, çalıştığım takıma değer katmak ve birlikte hedeflere ulaşmak. 
 
 
