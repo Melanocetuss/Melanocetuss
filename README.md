@@ -4,7 +4,7 @@
 
   
 <!-- Banner -->
-<img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR0bDM1amdmdmc1cGdlc3U3aHU3cGJoMXhzZzRjem9nczVnY3BvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp" />
+<img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR0bDM1amdmdmc1cGdlc3U3aHU3cGJoMXhzZzRjem9nczVnY3BvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp" /><br>
 <!-- About Me Summary -->
 ## Cesur Alphan Ellik👋
 
