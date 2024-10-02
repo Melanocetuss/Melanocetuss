@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
 <!-- About Me Summary -->
-## Cesur Alphan Ellik👋
+Cesur Alphan Ellik👋
   
 Merhaba, ben Cesur Alphan Ellik. İzmir Ekonomi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Siber Güvenlik alanında ilerlemeyi hedefliyorum ve şu anda Kali Linux, Stable Diffusion araçlarıyla çalışıyor, SQL enjeksiyonu ve türleri gibi konular üzerinde çalışıyorum.
 
