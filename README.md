@@ -7,7 +7,16 @@
 <!-- Banner -->
 <img align="center" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR0bDM1amdmdmc1cGdlc3U3aHU3cGJoMXhzZzRjem9nczVnY3BvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp" />
 <!-- About Me Summary -->
-Hello, I am Cesur Alphan Ellik. I graduated from the Computer Programming department at İzmir Ekonomi University. I am looking to advance in the field of Cyber Security and currently, I am working with tools in Kali Linux, Stable Diffusion, and topics such as how to perform SQL injection and its types. I closely follow the latest developments in technology and always strive to use the most up-to-date software. Thanks to my adaptability to teamwork and determination, I contribute to every project in the best way possible. I am always open to learning new technologies and reflect my diligence in every task, continuously raising my success graph. I am eager to add value to the team I work with and achieve goals together.
+## Hakkımda
+
+- Teknolojideki en son gelişmeleri yakından takip ediyorum.
+- Her zaman en güncel yazılımları kullanmaya özen gösteriyorum.
+- Takım çalışmasına uyum ve azmim sayesinde projelere en iyi şekilde katkı sağlıyorum.
+- Yeni teknolojileri öğrenmeye her zaman açığım.
+- Her göreve olan titizliğimle başarı grafiğimi sürekli yükseltiyorum.
+
+Amacım, çalıştığım takıma değer katmak ve birlikte hedeflere ulaşmak. 
+
 
 <!-- Skills -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
