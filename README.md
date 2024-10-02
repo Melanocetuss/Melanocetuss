@@ -1,6 +1,6 @@
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
 
   
 <!-- Banner -->
