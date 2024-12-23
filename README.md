@@ -12,8 +12,6 @@ Merhaba👋, ben Cesur Alphan Ellik. İzmir Ekonomi Üniversitesi Bilgisayar Pro
 - Takım çalışmasına uyum ve azmim sayesinde projelere en iyi şekilde katkı sağlıyorum.
 - Yeni teknolojileri öğrenmeye her zaman açığım.
 - Her göreve olan titizliğimle başarı grafiğimi sürekli yükseltiyorum.
-
-Amacım, çalıştığım takıma değer katmak ve birlikte hedeflere ulaşmak. 
 <!-- Skills -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
