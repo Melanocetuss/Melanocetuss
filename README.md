@@ -3,7 +3,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
 <!-- About Me Summary -->  
   
-Merhaba👋, ben Cesur Alphan Ellik. İzmir Ekonomi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Siber Güvenlik alanında ilerlemeyi hedefliyorum ve şu anda Kali Linux, Stable Diffusion araçlarıyla çalışıyor, SQL enjeksiyonu ve türleri gibi konular üzerinde çalışıyorum.
+Merhaba👋,
+Ben Cesur Alphan Ellik. İzmir Ekonomi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Siber Güvenlik alanında ilerlemeyi hedefliyorum
 
 ## Hakkımda
 
