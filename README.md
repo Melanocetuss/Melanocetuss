@@ -8,13 +8,6 @@ Merhaba👋,
 Ben Cesur Alphan. Şu anda C#, ASP.NET Core ve Onion Architecture gibi konularda kendimi geliştiriyorum. Bunun yanı sıra siber güvenlik alanında SQL Injection türleri, Kali Linux araçları (özellikle brute force ve Wi-Fi deauthentication attack saldırı araçları) üzerine çalışıyorum. Ayrıca, yapay zekâ teknolojilerine ilgi duyuyor ve Stable Diffusion gibi generatif modellerle ilgili araştırmalar yapıyorum.
 Gelişim odaklı bir yaklaşımla hem yazılım geliştirme hem de siber güvenlik alanlarında yetkinlik kazanmayı hedefliyorum.
 
-## Hakkımda
-
-- Teknolojideki en son gelişmeleri yakından takip ediyorum.
-- Takım çalışmasına uyum ve azmim sayesinde projelere en iyi şekilde katkı sağlıyorum.
-- Yeni teknolojileri öğrenmeye her zaman açığım.
-- Her göreve olan titizliğimle başarı grafiğimi sürekli yükseltiyorum.
-
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
 <!-- Skills -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
