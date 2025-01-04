@@ -4,7 +4,9 @@
 <!-- About Me Summary -->  
   
 Merhaba👋,
-Ben Cesur Alphan Ellik.Şuanda C#, ASP.NET Core ve Onion Architecture gibi konularda kendimi geliştiriyorum.
+
+Ben Cesur Alphan Ellik. Şu anda C#, ASP.NET Core ve Onion Architecture gibi konularda kendimi geliştiriyorum. Bunun yanı sıra siber güvenlik alanında SQL Injection türleri, Kali Linux araçları (özellikle brute force ve Wi-Fi deauthentication attack saldırı araçları) üzerine çalışıyorum. Ayrıca, yapay zekâ teknolojilerine ilgi duyuyor ve Stable Diffusion gibi generatif modellerle ilgili araştırmalar yapıyorum.
+Gelişim odaklı bir yaklaşımla hem yazılım geliştirme hem de siber güvenlik alanlarında yetkinlik kazanmayı hedefliyorum.
 
 ## Hakkımda
 
