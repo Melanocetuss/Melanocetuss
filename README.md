@@ -4,7 +4,7 @@
 <!-- About Me Summary -->  
   
 Merhaba👋,
-Ben Cesur Alphan Ellik. İzmir Ekonomi Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum.Şuanda C#, ASP.NET Core ve Onion Architecture gibi konularda kendimi geliştiriyorum.
+Ben Cesur Alphan Ellik.Şuanda C#, ASP.NET Core ve Onion Architecture gibi konularda kendimi geliştiriyorum.
 
 ## Hakkımda
 
