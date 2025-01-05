@@ -31,4 +31,3 @@ Gelişim odaklı bir yaklaşımla hem yazılım geliştirme hem de siber güvenl
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
   </a>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
