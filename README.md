@@ -3,10 +3,9 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
 <!-- About Me Summary -->  
   
-Merhaba👋,
+Hello👋,
 
-Ben Cesur Alphan. Şu anda C#, ASP.NET Core ve Onion Architecture gibi konularda kendimi geliştiriyorum. Bunun yanı sıra siber güvenlik alanında SQL Injection türleri, Kali Linux araçları (özellikle brute force ve Wi-Fi deauthentication attack saldırı araçları) üzerine çalışıyorum. Ayrıca, yapay zekâ teknolojilerine ilgi duyuyor ve Stable Diffusion gibi generatif modellerle ilgili araştırmalar yapıyorum.
-Gelişim odaklı bir yaklaşımla hem yazılım geliştirme hem de siber güvenlik alanlarında yetkinlik kazanmayı hedefliyorum.
+I'm Cesur Alphan Ellik. I am currently improving my skills in C#, ASP.NET Core, and architectures like N-Tier and Onion Architecture. Additionally, I am developing myself in the field of cybersecurity, focusing on SQL Injection types and Kali Linux tools (especially brute force and Wi-Fi deauthentication attack tools). I am also interested in artificial intelligence technologies and researching generative models like Stable Diffusion. With a growth-oriented approach, I aim to gain expertise in both software development and cybersecurity.
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
 <p align="center"><strong>From rivers of sorrow To oceans deep with hope</strong></p>
