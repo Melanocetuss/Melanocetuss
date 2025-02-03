@@ -9,7 +9,7 @@ Ben Cesur Alphan. Şu anda C#, ASP.NET Core ve Onion Architecture gibi konularda
 Gelişim odaklı bir yaklaşımla hem yazılım geliştirme hem de siber güvenlik alanlarında yetkinlik kazanmayı hedefliyorum.
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
-<p align="center">From rivers of sorrow To oceans deep with hope</p>
+<p align="center"><strong>From rivers of sorrow To oceans deep with hope</strong></p>
 <!-- Skills -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
