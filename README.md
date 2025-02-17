@@ -28,13 +28,6 @@ I'm Cesur Alphan Ellik. I am currently improving my skills in C#, ASP.NET Core, 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
-
-<!-- Github Stats  -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Github Stats:</b>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melanocetuss&theme=dark&hide_border=false" />
-</div>
-
 <!-- Social Media -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Social Media:</b>
 <div align="center"> 
