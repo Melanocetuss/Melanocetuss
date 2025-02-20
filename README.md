@@ -3,9 +3,10 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
 <!-- About Me Summary -->  
   
-Hello👋,
+Hello 👋,
+I am Cesur Alphan Ellik. I am currently working on C#, ASP.NET Core, and API development, building layered and sustainable systems using Onion Architecture and N-Tier Architecture. Additionally, I am contributing to making software more modular and manageable through design patterns like Mediator, CQRS, and Repository Design Pattern. I am also focused on building secure authentication systems with JWT Bearer Authentication and developing real-time applications with SignalR.
 
-I'm Cesur Alphan Ellik. I am currently improving my skills in C#, ASP.NET Core, and architectures like N-Tier and Onion Architecture. Additionally, I am developing myself in the field of cybersecurity, focusing on SQL Injection types and Kali Linux tools (especially brute force and Wi-Fi deauthentication attack tools). I am also interested in artificial intelligence technologies and researching generative models like Stable Diffusion. With a growth-oriented approach, I aim to gain expertise in both software development and cybersecurity.
+In addition to this, as a hobby, I am exploring cybersecurity, working on SQL Injection types and Kali Linux tools, and researching generative AI models like Stable Diffusion. 
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
 <p align="center"><strong>From rivers of sorrow To oceans deep with hope</strong></p>
