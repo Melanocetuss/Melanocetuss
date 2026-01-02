@@ -1,5 +1,3 @@
-<!-- Profile View -->
-<img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
 <!-- About Me Summary -->    
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hakkımda:</b>
 
@@ -19,3 +17,6 @@ Bunun yanı sıra SQL Injection gibi zafiyetleri inceliyor ve yapay zeka tarafı
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
 <p align="center"><strong>From rivers of sorrow To oceans deep with hope</strong></p>
+
+<!-- Profile View -->
+<img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="center"><br>
