@@ -14,9 +14,8 @@ Neler Yapıyorum? Backend tarafında C# ve ASP.NET Core ile çalışıyorum. Pro
 
 Bunun yanı sıra SQL Injection gibi zafiyetleri inceliyor ve yapay zeka tarafında Stable Diffusion gibi modellerle yeni neler yapılabileceğini araştırıyorum.
 
+<!-- Profile View -->
+<img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
 <p align="center"><strong>From rivers of sorrow To oceans deep with hope</strong></p>
-
-<!-- Profile View -->
-<img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="center"><br>
