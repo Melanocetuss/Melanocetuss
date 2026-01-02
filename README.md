@@ -3,9 +3,20 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
 <!-- About Me Summary -->  
   
-Hello 👋,
-I am Cesur Alphan Ellik. I am currently working on C#, ASP.NET Core, and API development, building layered and sustainable systems using Onion Architecture and N-Tier Architecture. Additionally, I am contributing to making software more modular and manageable through design patterns like Mediator, CQRS, and Repository Design Pattern. I am also focused on building secure authentication systems with JWT Bearer Authentication and developing real-time applications with SignalR.
+Selam, Ben Cesur Alphan! 👋
 
+Yazılım dünyasına tutkuyla bağlı, sürekli öğrenen ve üreten bir Full-Stack Geliştiriciyim. Benim için yazılım, sadece kod yazmak değil; karmaşık sorunlara en temiz ve en mantıklı çözümü bulma sürecidir.
+
+Neler Yapıyorum? Backend tarafında C# ve ASP.NET Core ile çalışıyorum. Projelerimi sadece "çalışsın yeter" mantığıyla değil, Onion veya N-Tier gibi sağlam mimariler üzerine kurarak, üzerine yeni bir şeyler eklemesi kolay yapılar haline getiriyorum. CQRS, Mediator ve Repository gibi yaklaşımları kullanarak kodun karmaşadan uzak ve düzenli kalmasını sağlıyorum.
+
+İşin kullanıcıyla buluştuğu noktada ise React'in gücünden yararlanıyorum. Modern, hızlı ve akıcı arayüzler geliştirerek yazdığım API'ları uçtan uca tamamlıyorum. Ayrıca projelerimde SignalR ile anlık etkileşimler kurmaya çalışıyor ve JWT ile temel güvenlik yapılarını kurgulayarak kendimi bu alanlarda geliştiriyorum.
+İşin "Merak" Kısmı 
+
+🔍 Kod yazmak kadar, sistemlerin nasıl çalıştığını ve nasıl korunması gerektiğini keşfetmeyi de seviyorum. Siber güvenlik merakımı hem yazılım hem de donanım tarafında besliyorum; Kali Linux üzerinden Deauth ve Evil Twin gibi ağ saldırı senaryoları üzerinde çalışıyorum. Hatta bu merakımı fiziksel bir projeye dönüştürerek; ESP32 ve NRF24L01 tabanlı, bu saldırıları simüle edebilen kendi taşınabilir pentesting cihazım Bruce Marauder'ı yaptım.
+
+Bunun yanı sıra SQL Injection gibi zafiyetleri inceliyor ve yapay zeka tarafında Stable Diffusion gibi modellerle yeni neler yapılabileceğini araştırıyorum.
+
+GitHub: https://github.com/Melanocetuss
 In addition to this, as a hobby, I am exploring cybersecurity, working on SQL Injection types and Kali Linux tools, and researching generative AI models like Stable Diffusion. 
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
