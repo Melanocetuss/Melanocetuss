@@ -1,8 +1,7 @@
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
-<!-- About Me Summary -->  
-  
+<!-- About Me Summary -->    
 Selam, Ben Cesur Alphan! 👋
 
 Yazılım dünyasına tutkuyla bağlı, sürekli öğrenen ve üreten bir Full-Stack Geliştiriciyim. Benim için yazılım, sadece kod yazmak değil; karmaşık sorunlara en temiz ve en mantıklı çözümü bulma sürecidir.
@@ -16,8 +15,6 @@ Neler Yapıyorum? Backend tarafında C# ve ASP.NET Core ile çalışıyorum. Pro
 
 Bunun yanı sıra SQL Injection gibi zafiyetleri inceliyor ve yapay zeka tarafında Stable Diffusion gibi modellerle yeni neler yapılabileceğini araştırıyorum.
 
-GitHub: https://github.com/Melanocetuss
-In addition to this, as a hobby, I am exploring cybersecurity, working on SQL Injection types and Kali Linux tools, and researching generative AI models like Stable Diffusion. 
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
 <p align="center"><strong>From rivers of sorrow To oceans deep with hope</strong></p>
