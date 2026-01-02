@@ -1,6 +1,7 @@
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
 <!-- About Me Summary -->    
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hakkımda:</b>
 
 Selam, Ben Cesur Alphan! 👋
 
@@ -18,20 +19,3 @@ Bunun yanı sıra SQL Injection gibi zafiyetleri inceliyor ve yapay zeka tarafı
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5wNDc1dXg3Mjg1a3ZzMDg4M3drcDU2N2lhdDdkdWVheTRtbWk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwnNweDJNrvs9a/giphy.webp"></br></p>
 <p align="center"><strong>From rivers of sorrow To oceans deep with hope</strong></p>
-
-<!-- Social Media -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Social Media:</b>
-<div align="center"> 
-  <a href="https://cesuralphan.github.io/Portfolio/" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-Website-%23333?style=for-the-badge&logo=Portfolio-Website&logoColor=#7289d9"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cesur-alphan-ellik-b0056a240/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-  </a>
-  <a href = "mailto:alphanellik@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
-  <a href="https://discord.gg/7Jz6VWFe" target="_blank">
-   <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
-  </a>
-</div>
