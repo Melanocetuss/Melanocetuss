@@ -2,8 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=Melanocetuss&color=blueviolet" align="right"><br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/><br>
 <!-- About Me Summary -->    
-Selam, Ben Cesur Alphan! 👋
 
+Selam, Ben Cesur Alphan! 👋
 Yazılım dünyasına tutkuyla bağlı, sürekli öğrenen ve üreten bir Full-Stack Geliştiriciyim. Benim için yazılım, sadece kod yazmak değil; karmaşık sorunlara en temiz ve en mantıklı çözümü bulma sürecidir.
 
 Neler Yapıyorum? Backend tarafında C# ve ASP.NET Core ile çalışıyorum. Projelerimi sadece "çalışsın yeter" mantığıyla değil, Onion veya N-Tier gibi sağlam mimariler üzerine kurarak, üzerine yeni bir şeyler eklemesi kolay yapılar haline getiriyorum. CQRS, Mediator ve Repository gibi yaklaşımları kullanarak kodun karmaşadan uzak ve düzenli kalmasını sağlıyorum.
