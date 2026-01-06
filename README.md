@@ -8,7 +8,6 @@ Yazılım dünyasına tutkuyla bağlı, sürekli öğrenen ve üreten bir Full-S
 Neler Yapıyorum? Backend tarafında C# ve ASP.NET Core ile çalışıyorum. Projelerimi sadece "çalışsın yeter" mantığıyla değil, Onion veya N-Tier gibi sağlam mimariler üzerine kurarak, üzerine yeni bir şeyler eklemesi kolay yapılar haline getiriyorum. CQRS, Mediator ve Repository gibi yaklaşımları kullanarak kodun karmaşadan uzak ve düzenli kalmasını sağlıyorum.
 
 İşin kullanıcıyla buluştuğu noktada ise React'in gücünden yararlanıyorum. Modern, hızlı ve akıcı arayüzler geliştirerek yazdığım API'ları uçtan uca tamamlıyorum. Ayrıca projelerimde SignalR ile anlık etkileşimler kurmaya çalışıyor ve JWT ile temel güvenlik yapılarını kurgulayarak kendimi bu alanlarda geliştiriyorum.
-İşin "Merak" Kısmı 
 
 🔍 Kod yazmak kadar, sistemlerin nasıl çalıştığını ve nasıl korunması gerektiğini keşfetmeyi de seviyorum. Siber güvenlik merakımı hem yazılım hem de donanım tarafında besliyorum; Kali Linux üzerinden Deauth ve Evil Twin gibi ağ saldırı senaryoları üzerinde çalışıyorum. Hatta bu merakımı fiziksel bir projeye dönüştürerek; ESP32 ve NRF24L01 tabanlı, bu saldırıları simüle edebilen kendi taşınabilir pentesting cihazım Bruce Marauder'ı yaptım.
 
